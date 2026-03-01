@@ -1,4 +1,7 @@
 # linreg
+
+[![CI](https://github.com/janoPig/linear_regression/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/janoPig/linear_regression/actions/workflows/ci.yml)
+
 Pure c++ linear regression from scratch with no dependencies to any library.
 
 
