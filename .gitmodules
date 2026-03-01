@@ -1,0 +1,3 @@
+[submodule "GTestLite"]
+	path = GTestLite
+	url = https://github.com/janoPig/GTestLite.git
